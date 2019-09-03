@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ This\ class\ is\ uses\ the\ State\ and\ GameWindow\ class\ to\ run\ games\ of\ Connect4\r\n\ \r\n\ @author\ (Sam\ Saxon)\r\n\ @version\ (2/11/2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ initiates\ the\ GameWindow.\ Starting\ point\ for\ the\ program\ \r\n
+comment2.params=s\ move\ computerPlays
+comment2.target=void\ playTurn(State,\ int,\ boolean)
+comment2.text=\r\n\ Plays\ 1\ or\ 2\ turns\ of\ the\ game\ given\ a\ State.\ if\ computerPlays\ is\ false,\ only\ player\ will\ play.\ If\ move\ is\ -1,\ only\ computer\ will\ play\r\n\r\n\ @param\ \ s\ \ the\ current\ State\ of\ the\ game\r\n\ @param\ \ move\ \ the\ player's\ move\ to\ play\ the\ turn\ with.\r\n\ @param\ \ computerPlays\ \ whether\ or\ not\ the\ computer\ plays\ this\ turn\ (false\ in\ PvP\ mode)\r\n
+numComments=3

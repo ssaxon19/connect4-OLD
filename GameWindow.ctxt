@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GameWindow
+comment0.text=\r\n\ This\ class\ is\ for\ a\ GUI\ designed\ to\ display\ a\ Connect4\ game\r\n\ \r\n\ @author\ (Sam\ Saxon)\r\n\ @version\ (2/11/2018)\r\n
+comment1.params=
+comment1.target=GameWindow()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ GameWindow.\r\n
+comment2.params=s
+comment2.target=void\ setState(State)
+comment2.text=\r\n\ Sets\ the\ current\ State\ of\ the\ game\r\n\ \r\n\ @param\ s\ the\ State\ to\ set\ as\ the\ current\ State\r\n
+comment3.params=
+comment3.target=State\ getCurState()
+comment3.text=\r\n\ Gets\ the\ current\ State\ of\ the\ game\r\n\ \r\n\ @return\ the\ current\ State\ of\ the\ game\r\n
+comment4.params=
+comment4.target=int\ getDifficulty()
+comment4.text=\r\n\ Gets\ the\ current\ difficulty\ of\ the\ game\r\n\ \r\n\ @return\ the\ difficulty\ of\ the\ game\r\n
+comment5.params=
+comment5.target=void\ changeDifficulty()
+numComments=6
