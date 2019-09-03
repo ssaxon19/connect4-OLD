@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
  * This class is for a specific State of a Connect4 game
- * 
+ *  
  * @author (Sam Saxon)
  * @version (2/11/2018)
  */

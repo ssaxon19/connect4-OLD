@@ -15,7 +15,7 @@ import java.util.*;
 
 public class FWriter
 {
-    private static int diff = 9;
+    private static int diff = 10;
     
     public static void main(String[] args) throws IOException{
         writeMoves("452", 3);

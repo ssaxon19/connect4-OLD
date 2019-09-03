@@ -10,7 +10,7 @@ import javax.swing.*;
 /**
  * This class is for a GUI designed to display a Connect4 game
  * 
- * @author (Sam Saxon)
+ * @author (Sam Saxon )
  * @version (2/11/2018)
  */
 public class GameWindow extends JFrame{

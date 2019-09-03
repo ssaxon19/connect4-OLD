@@ -2,7 +2,7 @@
  * This class is uses the State and GameWindow class to run games of Connect4
  * 
  * @author (Sam Saxon)
- * @version (2/11/2018)
+ * @version (2/12/2018)
  */
 public class Game {
     private static GameWindow window;  
